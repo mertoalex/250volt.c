@@ -1,9 +1,0 @@
-[submodule "include/cisson"]
-	path = include/cisson
-	url = https://gitlab.com/Meithal/cisson.git
-[submodule "include/microjson"]
-	path = include/microjson
-	url = https://gitlab.com/esr/microjson.git
-[submodule "include/json2tsv"]
-	path = include/json2tsv
-	url = git://git.codemadness.org/json2tsv
